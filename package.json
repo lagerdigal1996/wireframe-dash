@@ -10,7 +10,7 @@
   "dependencies": {
     "webpack": "^5.0.0",
     "webpack-cli": "^4.0.0",
-    "webpack-dev-server": "^4.15.0", // Updated to latest version
+    "webpack-dev-server": "^4.16.0", // Updated to latest version
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
