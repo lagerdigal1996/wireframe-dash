@@ -7,6 +7,8 @@ module.exports = {
     // Output filename and path for the bundled file
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
+    // Enable source maps for easier debugging
+    sourceMapFilename: '[file].map',
   },
   devServer: {
     // Directory for static content
