@@ -1,0 +1,25 @@
+{
+  "name": "wireframe-dash",
+  "version": "1.0.0",
+  "description": "A minimalist dashboard tool for creating and sharing interactive wireframe prototypes using basic web components.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.11.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
